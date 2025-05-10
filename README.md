@@ -21,5 +21,5 @@ A modern and responsive movie web application built with **React.js** and **Vite
 - [TMDB API](https://www.themoviedb.org/documentation/api)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-## 📁 Project Structure
+
 
