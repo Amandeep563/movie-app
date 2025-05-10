@@ -15,7 +15,7 @@ A responsive and dynamic movie browsing app built using **React**, **Vite**, and
 - Vite
 - Tailwind CSS
 - JavaScript (ES6+)
-- Movie API (e.g., TMDB or OMDB)
+- Movie API (TMDB)
 
 ## 🧪 Getting Started
 
