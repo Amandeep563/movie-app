@@ -1,25 +1,28 @@
 # 🎬 Movie App
 
-A modern and responsive movie web application built with **React.js** and **Vite**, powered by the **TMDB (The Movie Database) API**. Users can discover trending, upcoming, and top-rated movies, search for specific titles, and view movie details with a sleek and minimal UI.
+A responsive and dynamic movie browsing app built using **React**, **Vite**, and **Tailwind CSS**. This app allows users to discover movies using real-time data from a public movie API.
 
-## 🚀 Live Demo
+## 🚀 Features
 
-🌐 [Click here to view the app](https://movie-app-kappa-bice.vercel.app/)
+- Search for movies and view detailed information
+- Responsive layout built with Tailwind CSS
+- Fast performance with Vite and React
+- Clean and reusable component structure
 
-## 🔧 Features
+## 🛠️ Tech Stack
 
-- 🔍 Search movies by title
-- 🎞️ Browse trending, top-rated, and upcoming movies
-- 📄 View detailed movie information
-- 💡 Responsive and fast UI powered by Vite
-- 🔒 Environment variables for API key security (Vercel)
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- Movie API (e.g., TMDB or OMDB)
 
-## 🛠️ Built With
+## 🧪 Getting Started
 
-- [React.js](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [TMDB API](https://www.themoviedb.org/documentation/api)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+To run this project locally:
 
-
-
+```bash
+git clone https://github.com/Amandeep563/movie-app.git
+cd movie-app
+npm install
+npm run dev
